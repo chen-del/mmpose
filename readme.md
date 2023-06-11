@@ -1,0 +1,9 @@
+# mmpose第一期作业
+detection目标检测：MAP:0.77 (200 epoch)
+mmpose人体关键点检测：MAP:0. (280 epoch)
+
+采用方式：shell命令加jupyter完成
+
+关键点检测结果
+
+
